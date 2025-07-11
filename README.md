@@ -1,4 +1,5 @@
 # GenMAP
+# Creds to @Braijan
 
 GenMAP: Automating Nmap Scans with Ease
 
@@ -30,5 +31,3 @@ To run the tool, use the following command:
 
 ```bash
 python3 genmap.py
-
-# Creds to Braijan
