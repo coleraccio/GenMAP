@@ -10,7 +10,7 @@ A tool to automate Nmap scanning with customizable modes for CTF and Pentest. Ge
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/braijan/genmap.git
+    git clone https://github.com/coleraccio/GenMAP.git
     ```
 
 2. Navigate to the project directory:
